@@ -1,0 +1,18 @@
+.react-multi-carousel-list {
+  padding-bottom: 3rem;
+}
+.parent {
+  padding: 2rem;
+}
+@media (max-width: 767px) {
+  .react-multi-carousel-list {
+    padding: 2rem 1rem;
+  }
+  .react-multiple-carousel__arrow {
+    min-width: 21px;
+    min-height: 21px;
+  }
+  .react-multiple-carousel__arrow::before {
+    font-size: 10px;
+  }
+}

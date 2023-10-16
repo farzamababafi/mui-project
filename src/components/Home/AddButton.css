@@ -1,0 +1,20 @@
+.btn {
+  width: 180px;
+  height: 40px;
+  position: relative;
+  cursor: pointer;
+}
+.btn button {
+  background: #f83e25;
+  border: none;
+  padding: 10px 18px;
+  font-size: 0.9rem;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+}
+.minusBtn,
+.plusBtn {
+  font-weight: 700;
+  cursor: pointer;
+}
